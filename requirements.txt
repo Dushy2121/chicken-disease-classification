@@ -1,0 +1,18 @@
+tensorflow
+numpy
+pandas
+matplotlib
+dvc
+notebook
+seaborn
+python-box ==6.0.2
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+scipy
+scikit-learn
+Flask
+Flask-Cors
+-e .
